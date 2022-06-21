@@ -6,7 +6,7 @@ As an accountant, I am experienced in the private equity and venture capital spa
 
 As a freelance programmer, I specialize in building automations and integrations in Python, VBA, and Google Scripts, and I've consulted with over 100 clients throughout the world.
 
-I also have two online courses:
+Also, I have two online courses:
 
 [Excel VBA Automation: Get The Most Out Of Excel!](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 
