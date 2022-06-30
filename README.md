@@ -8,6 +8,6 @@ As a freelance programmer, I specialize in building automations and integrations
 
 Also, I have two online courses:
 
-[Excel VBA: Efficiently Learn To Code And Save Time!](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
+[Excel VBA: Quickly Learn To Code And Save Time!](https://www.udemy.com/course/excel-vba-from-beginner-to-hero-real-world-business-examples/?referralCode=61E43563490B07A7FA40)
 
-[Best Excel Formulas You Need To Know!](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
+[Excel: Quickly Learn The Best Formulas To Save Time!](https://www.udemy.com/course/advanced-excel-formulas-shortcuts-and-excel-efficiency-tips/?referralCode=C488D4762ED444C7FF09)
